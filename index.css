@@ -1,0 +1,182 @@
+* {
+  font-family: Inter;
+}
+
+#Navbar ul li a {
+  color: #02033B;
+  font-family: Inter;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 25px;
+}
+
+#Navbar button {
+  background-color: #4335DE;
+  color: #FFF;
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 18px;
+}
+
+#hero {
+  background-image: url(./img/home-header-2.png.png);
+  width: 649px;
+  height: 615px;
+}
+
+#benar h1 {
+  color: #02033B;
+  font-family: Inter;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 75px;
+  letter-spacing: -1.2px;
+}
+
+#benar p {
+  color: #02033B;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+#iphn-button {
+  background-color: #FFC247;
+  color: #02033B;
+  font-family: Inter;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 22.5px;
+}
+
+#Android-btn {
+  color: #02033B;
+  font-family: Inter;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 22.5px;
+}
+
+#Loved {
+  background-color: #FFC247;
+}
+
+#Loved h1 {
+  color: #02033B;
+  font-family: Inter;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 45px;
+  letter-spacing: -0.72px;
+}
+
+#box {
+  border: 0px solid;
+  border-radius: 20px;
+}
+
+#box p {
+  color: #02033B;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+}
+
+#box h2 {
+  color: #02033B;
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 20px;
+}
+
+#Featured h3 {
+  color: #02033B;
+  font-family: Inter;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 30px;
+  letter-spacing: -0.48px;
+}
+
+#Featured img img1 {
+  width: 129.428px;
+  height: 95px;
+  flex-shrink: 0;
+  color: #02033B;
+}
+
+#Featured img img2 {
+  width: 130px;
+  height: 19.62px;
+  flex-shrink: 0;
+  color: #02033B;
+}
+
+#Featured img img3 {
+  width: 130px;
+  height: 42.52px;
+  flex-shrink: 0;
+  color: #02033B;
+}
+
+#Featured img img3 {
+  width: 130px;
+  height: 46.52px;
+  flex-shrink: 0;
+  color: #02033B;
+}
+
+#Featured img img4 {
+  width: 130px;
+  height: 82.56px;
+  flex-shrink: 0;
+  color: #02033B;
+}
+
+#Featured img img5 {
+  width: 130px;
+  height: 26.53px;
+  flex-shrink: 0;
+  color: #02033B;
+}
+#get-pic{
+  gap: 60px;
+  border-radius:48px;
+  background: #FFF;
+  box-shadow: 12px 12px 20px 0px rgba(0, 0, 0, 0.10);
+}
+
+#get-pic h1 {
+  color: #02033B;
+  text-align: center;
+  font-family: Inter;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 25px;
+  letter-spacing: -0.4px;
+}
+
+#get-pic p {
+  color: #02033B;
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
