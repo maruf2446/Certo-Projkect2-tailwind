@@ -23,8 +23,12 @@
 
 #hero {
   background-image: url(./img/home-header-2.png.png);
-  width: 649px;
-  height: 615px;
+  /* width: 663px; */
+  width: 1465px;
+  height: 628px;
+  border: 15px solid #2925CC;
+  border-bottom:1px;
+  border-right: 1px;
 }
 
 #benar h1 {
