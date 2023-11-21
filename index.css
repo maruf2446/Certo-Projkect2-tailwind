@@ -202,22 +202,24 @@
 
 #certo {
   color: #FFC247;
-  margin-top: 7px;
 }
 
-#certo p {
+#certo h1 {
   font-size: 18px;
   font-style: normal;
   font-weight: 800;
   line-height: 25px;
   letter-spacing: -0.4px;
 }
+#certo p{
+  background-color: #FFC247;
+}
 
 #Sign-up {
   background-image: url(./img/singup.svg);
   background-color: #FDB235;
-  width: 436px;
-  height: 232px;
+  width: 380px;
+  height: 220px;
   border-radius: 48px;
 }
 
